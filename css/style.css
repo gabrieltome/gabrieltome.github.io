@@ -1,0 +1,37 @@
+
+
+.nav {
+    background-color: #929292;
+}
+
+
+.nav i {
+    color: #FFF;
+}
+
+.nav i:hover {
+    color: rgba(0,0,0, .5);
+}
+
+.nav-menu {
+    color: #FFF;
+}
+
+.nav-toggle {
+    color: #FFF;
+}
+
+#nav-toggle span{   
+    color: #FFF;
+}
+
+.nav-menu .nav-item {
+    background-color: #929292;
+    opacity: .9;
+    color: #FFF;
+}
+
+.nav-menu .nav-item:hover {
+    opacity: 1;
+    color: #FFF;
+}
